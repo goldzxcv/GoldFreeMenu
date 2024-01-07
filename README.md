@@ -2,5 +2,4 @@
 this is the repo for the source code of my free menu!
 
 # Info
-credits: 
-mango: base template
+credits to mango for the base template
