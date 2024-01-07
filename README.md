@@ -1,5 +1,5 @@
-# GoldFreeMenu
-skidders gonna skid
-credits:
-mango: base
-thats literally it lmfao
+# Gold Free Menu
+this is the repo for the source code of my free menu!
+
+# Info
+credits: mango
